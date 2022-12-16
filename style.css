@@ -12,3 +12,18 @@ body {
     background-color: #f496d239;
     color: #3F87F5;
 }
+
+/* fieldset {
+    background: #FF4E4E;
+    width: 50px;
+    height: 25px;
+    position: absolute;
+    top: -10px;
+    left: 265px;
+} */
+.hot-bg {
+    background-color: #FF4E4E;
+    font-size: 10px;
+    padding: 5px;
+    text-align: center;
+}
