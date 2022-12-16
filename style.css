@@ -1,3 +1,14 @@
 body {
     font-family: 'Poppins', sans-serif;
+    /* background-color: #E5E5E5; */
+}
+
+.card-check-icon-bg {
+    background-color: rgba(82, 67, 194, 0.103693);
+    color: #5243C2;
+}
+
+.btn-bg {
+    background-color: #f496d239;
+    color: #3F87F5;
 }
